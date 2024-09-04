@@ -192,7 +192,7 @@ MonoBehaviour:
     m_Value: {x: 0.039272428, y: 0.20069425, z: 0.5}
   desiredLuxValue:
     m_OverrideState: 1
-    m_Value: 5
+    m_Value: 1
   updateMode:
     m_OverrideState: 0
     m_Value: 0
@@ -715,7 +715,7 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.156
+    m_Value: 0.226
   scatter:
     m_OverrideState: 0
     m_Value: 0.7
